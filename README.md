@@ -7,7 +7,7 @@ This repository contains  beginner-level projects focused on using Wireshark for
 ### 1. [Analyzing HTTP Traffic with Wireshark]
 Learn how to capture and analyze HTTP traffic using Wireshark. This project covers setting up captures, filtering HTTP traffic, analyzing HTTP requests and responses, and extracting payload data.
 
-### 5. [Capturing and Analyzing VoIP Traffic]
+### 2. [Capturing and Analyzing VoIP Traffic]
 Capture and analyze VoIP traffic using Wireshark. This project covers capturing VoIP calls, filtering SIP and RTP traffic, analyzing SIP packets, examining RTP streams, and playing back VoIP call audio.
 
 - **Key Topics:** VoIP Traffic, SIP, RTP, Call Analysis, Playback
